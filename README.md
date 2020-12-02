@@ -9,11 +9,11 @@
 * Optimizing python tools, rewriting in C/C++ for performance and memory management (-> It is realy worth)
 * Security protocols for the Database and Website
 * Database tools like splusdata python package
-* Scientific research on merger objects
+* Scientific research on merger objects with Deep Learning.
 
 
 🌱 I’m currently learning ...
-* Programing a Raspberry pi with Machine Learning models interacting with sensors and cameras
+* Programing a Raspberry pi with Machine Learning and Reinforcement Learning models interacting with sensors and cameras
 
 📫 How to reach me:
 gustavo.b.schwarz@gmail.com
