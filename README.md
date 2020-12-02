@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 -- > Im Gustavo < --
-*I'm a student who likes to make complex things that will be useful for doing science!*
+
+**I'm a student who likes to make complex things that will be useful for doing science!**
 
 🔭 ... currently working on:
 * Building spatial SPLUS-database, with more than 50 milion of objects
@@ -14,8 +15,8 @@
 🌱 I’m currently learning ...
 * Programing a Raspberry pi with Machine Learning models interacting with sensors and cameras
 
-📫 How to reach me: ...
-Email: gustavo.b.schwarz@gmail.com
+📫 How to reach me:
+gustavo.b.schwarz@gmail.com
 
 Ask me about anything! < /> 
 Gustavo
