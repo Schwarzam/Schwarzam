@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+I'm a student who likes to make complex things that will be useful for doing science!
 
 🔭 ... currently working on:
 * Building spatial SPLUS-database, with more than 50 milion of objects
