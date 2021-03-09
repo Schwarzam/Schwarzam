@@ -19,5 +19,5 @@
 📫 How to reach me:
 gustavo.b.schwarz@gmail.com
 
-Ask me about anything! < /> 
+< /> 
 Gustavo
