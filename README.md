@@ -12,10 +12,6 @@
 * Database tools like splusdata python package
 * Scientific research on merging and interacting objects with Deep Learning.
 
-
-🌱 I’m currently learning ...
-* Programing a Raspberry pi with Machine Learning and Reinforcement Learning models interacting with sensors and cameras
-
 📫 How to reach me:
 gustavo.b.schwarz@gmail.com
 
