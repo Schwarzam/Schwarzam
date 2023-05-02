@@ -6,6 +6,8 @@ I'm the developer behind [**splus.cloud**](https://splus.cloud) and responsible 
 
 I publish by the name of G.B.O Schwarz, check out some articles [**Articles Page**](https://www.researchgate.net/scientific-contributions/G-B-Oliveira-Schwarz-2192491656) ! It's not complete, but most of them are there. 
 
+Please note that most of my GitHub repositories are private due to security reasons, but I'm a big fan of open source and enjoy sharing my code as much as possible.
+
 ![Github Stats](https://raw.githubusercontent.com/schwarzam/github-stats/master/generated/overview.svg) ![Most Used Languages](https://raw.githubusercontent.com/schwarzam/github-stats/master/generated/languages.svg)
 
 < /> 
