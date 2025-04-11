@@ -8,7 +8,7 @@ I publish by the name of G.B. Oliveira Schwarz, check out some articles [**Artic
 
 Please note that most of my GitHub repositories are private due to security reasons, but I'm a big fan of open source and enjoy sharing my code as much as possible.
 
-![Github Stats](https://raw.githubusercontent.com/schwarzam/github-stats/master/generated/overview.svg) ![Most Used Languages](https://raw.githubusercontent.com/schwarzam/github-stats/master/generated/languages.svg)
+[![Github Stats](https://raw.githubusercontent.com/schwarzam/github-stats/master/generated/overview.svg) ![Most Used Languages](https://raw.githubusercontent.com/schwarzam/github-stats/master/generated/languages.svg)](https://github-readme-streak-stats.herokuapp.com/?user=schwarzam&theme=tokyonight)
 
 < /> 
 Gustavo
